@@ -1,6 +1,9 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.1/OtoDIgSI-Setup-1.1.1.exe",
-  "sha256": "78bea87e02d30a52f1015d4e61647a472a092d48dffe32d4be227d7819a6c46c",
-  "notes": "Saat OtoDIgSI.exe dibuka kini tampil menu kontrol: Launch, Restart, Terminate, Monitor (dashboard berjalan di latar tanpa jendela). Dashboard memeriksa pembaruan otomatis saat Ruang kerja dibuka. Pembaruan menunggu konfirmasi bila masih ada job berjalan."
+  "version": "1.1.3",
+  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.3/OtoDIgSI-Setup-1.1.3.exe",
+  "sha256": "9d46c9b7d1a9890114c3181b8e4965efce852773129f07f81078898dca5d5845",
+  "size": 146616273,
+  "notes": "Peta PLN terbaca lebih akurat (garis bolak-balik tidak lagi membuat sambungan palsu). Nama komponen di peta kini sama dengan SLD PowerFactory, penomoran mengikuti format Lung Simau. Kondisi eksisting persis peta PLN; pemisahan jurusan hanya muncul sebagai rekomendasi. Jurusan baru digambar dari PHB-TR menyusuri tiang. Jarvis belajar dari koreksi pengguna. Registrasi citra memakai koordinat manual dan peta yang diputar.",
+  "manifest_url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.3/manifest-1.1.3.json",
+  "manifest_sha256": "71ce8082e505a439b8e7bd421877eb98dd98af9b18a6c7fb7f90afd0cfa9e2e0"
 }
