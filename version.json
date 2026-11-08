@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.0.0/OtoDIgSI-Setup-1.0.0.exe",
-  "sha256": "d1ca016617b2fc87ba05b76a4f783970fa8d06f8f3af7e30676dc6ae3a5eca85",
-  "notes": "Rilis awal. Berkas installer diunggah sebagai aset Release v1.0.0."
+  "version": "1.1.0",
+  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.0/OtoDIgSI-Setup-1.1.0.exe",
+  "sha256": "170af6b403a3d8680734f8a8dd5ec97b6af30c82a2c917ba104fce3cb44b17ac",
+  "notes": "Busbar mendatar di SLD dan editor sketsa SLD yang lebih nyaman; halaman Hasil baru; review peta lebih lancar (sembunyikan plotting, zoom beruntun); pengukuran waktu PowerFactory; installer lebih kecil (144 MB)."
 }
