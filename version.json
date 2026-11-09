@@ -1,9 +1,9 @@
 {
-  "version": "1.1.3",
-  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.3/OtoDIgSI-Setup-1.1.3.exe",
-  "sha256": "9d46c9b7d1a9890114c3181b8e4965efce852773129f07f81078898dca5d5845",
-  "size": 146616273,
-  "notes": "Peta PLN terbaca lebih akurat (garis bolak-balik tidak lagi membuat sambungan palsu). Nama komponen di peta kini sama dengan SLD PowerFactory, penomoran mengikuti format Lung Simau. Kondisi eksisting persis peta PLN; pemisahan jurusan hanya muncul sebagai rekomendasi. Jurusan baru digambar dari PHB-TR menyusuri tiang. Jarvis belajar dari koreksi pengguna. Registrasi citra memakai koordinat manual dan peta yang diputar.",
-  "manifest_url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.3/manifest-1.1.3.json",
-  "manifest_sha256": "f1c9a2fa3085830cf491639d6cf892631b95f870ba7ad9cf1afb7e2f52e5f65c"
+  "version": "1.1.4",
+  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.4/OtoDIgSI-Setup-1.1.4.exe",
+  "sha256": "1a66378b0a2a9b4357da3113cc1b56fa489d9fa3a1850a64e4ece4a66eed2af8",
+  "size": 148249236,
+  "notes": "Pembaruan modular: pembaruan dari 1.1.3 hanya mengunduh berkas yang berubah. Jurusan dan topologi manual Jarvis, editor SLD lebih lengkap, dashboard dan hasil dirapikan, templat laporan diperbarui.",
+  "manifest_url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.4/manifest-1.1.4.json",
+  "manifest_sha256": "15ab18a729ac645494b48930730a8f3908c857c0bbd78455f47157a3bdbb1341"
 }
