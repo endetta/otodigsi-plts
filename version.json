@@ -1,9 +1,9 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.4/OtoDIgSI-Setup-1.1.4.exe",
-  "sha256": "1a66378b0a2a9b4357da3113cc1b56fa489d9fa3a1850a64e4ece4a66eed2af8",
-  "size": 148249236,
-  "notes": "Pembaruan modular: pembaruan dari 1.1.3 hanya mengunduh berkas yang berubah. Jurusan dan topologi manual Jarvis, editor SLD lebih lengkap, dashboard dan hasil dirapikan, templat laporan diperbarui.",
-  "manifest_url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.4/manifest-1.1.4.json",
-  "manifest_sha256": "15ab18a729ac645494b48930730a8f3908c857c0bbd78455f47157a3bdbb1341"
+  "version": "1.1.5",
+  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.5/OtoDIgSI-Setup-1.1.5.exe",
+  "sha256": "c68361746b2de2738cf1ec90d0b18cc14ee7f1ee303a2abcd66e6cfd4ab2d20b",
+  "size": 149000050,
+  "notes": "Header kaca di atas kanvas Peta/Editor/SLD, panel Lapisan pada peta; baca kabel JTR: cincin terputus label dan pintasan A-C; perbaikan tata letak SLD tiang (regresi 1.1.4+); galat jelas bila modul PowerFactory tidak ditemukan.",
+  "manifest_url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.5/manifest-1.1.5.json",
+  "manifest_sha256": "ac237193763ae36ce18b53a97f5c8cc9f7cf22e43b16cac8ccafd95760e7ca5a"
 }
