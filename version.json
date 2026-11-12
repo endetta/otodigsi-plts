@@ -1,9 +1,10 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.5/OtoDIgSI-Setup-1.1.5.exe",
-  "sha256": "c68361746b2de2738cf1ec90d0b18cc14ee7f1ee303a2abcd66e6cfd4ab2d20b",
-  "size": 149000050,
-  "notes": "Header kaca di atas kanvas Peta/Editor/SLD, panel Lapisan pada peta; baca kabel JTR: cincin terputus label dan pintasan A-C; perbaikan tata letak SLD tiang (regresi 1.1.4+); galat jelas bila modul PowerFactory tidak ditemukan.",
-  "manifest_url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.1.5/manifest-1.1.5.json",
-  "manifest_sha256": "ac237193763ae36ce18b53a97f5c8cc9f7cf22e43b16cac8ccafd95760e7ca5a"
+  "version": "1.2.0",
+  "url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.2.0/OtoDIgSI-Setup-1.2.0.exe",
+  "sha256": "5e815caca23308abdea8b41c32c4dccc0a92a5e04b256815ad0efdf0ac415a51",
+  "size": 149354582,
+  "notes": "Lisensi lebih aman, pembaruan otomatis wajib, perbaikan dashboard & laporan",
+  "manifest_url": "https://github.com/endetta/otodigsi-plts/releases/download/v1.2.0/manifest-1.2.0.json",
+  "manifest_sha256": "b4e7b50c01e244fe8b32ca46e7bacbb47ef63bec2800dc2799d203c7b505c4d4",
+  "sig": "z3S+LbYxWaqNy9k1yB8pCHSoxQIvwIYm4E/B4DZqcsSQicUOTQqqzQ1TaehYlW1TN5KneHmh4mPHqIa6YMY7CA=="
 }
